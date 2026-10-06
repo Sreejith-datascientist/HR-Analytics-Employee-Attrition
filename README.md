@@ -18,15 +18,15 @@ An end-to-end data analytics project combining **Python (ETL)**, **SQL (Data Min
 
 ### Page 1: Executive Overview
 Provides strategic high-level KPIs, department attrition rankings, overtime impact, and tenure-banded attrition curves.
-![Executive Overview](<img width="869" height="487" alt="Overview" src="https://github.com/user-attachments/assets/a89ac47c-a837-4a1e-b86a-0f6f03a2626e" />)
+![Executive Overview](<img width="869" height="487" alt="Overview" src="https://github.com/user-attachments/assets/46d0d967-47e6-4a8c-b4cd-089805759233" />)
 
 ### Page 2: Retention & Risk Drivers
 Features an Environment Satisfaction matrix heatmap by job role alongside tenure and monthly income scatter plots.
-![Retention Drivers](<img width="840" height="483" alt="Retention   Risk Drivers" src="https://github.com/user-attachments/assets/7bd1278e-5b29-400c-afef-3c9816eb834f" />)
+![Retention Drivers](<img width="840" height="483" alt="Retention   Risk Drivers" src="https://github.com/user-attachments/assets/072bcd3f-6e61-4858-998e-bfac1580067c" />)
 
 ### Page 3: Actionable Risk Tracker
 Lists active high-risk employees ranked by their calculated Flight Risk Score for HR retention interventions.
-![Risk Tracker](<img width="862" height="479" alt="Risk Tracker" src="https://github.com/user-attachments/assets/9a0b6b28-fdca-4b9a-be9d-47d3dfe3f376" />)
+![Risk Tracker](<img width="862" height="479" alt="Risk Tracker" src="https://github.com/user-attachments/assets/d42a4e29-312f-4581-a1e4-e8860fa92254" />)
 
 ---
 
