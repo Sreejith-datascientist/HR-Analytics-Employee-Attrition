@@ -38,7 +38,7 @@ Lists active high-risk employees ranked by their calculated Flight Risk Score fo
    - Predicted Top 10 drivers of Attrition based on Risk Score. (<img width="1000" height="500" alt="feature_importance" src="https://github.com/user-attachments/assets/338a7276-ca3c-4b8b-a552-c4569a12a0ae" />) 
 2. **Exploratory Data Mining (https://github.com/Sreejith-datascientist/HR-Analytics-Employee-Attrition/blob/main/SQL/HR_Attrition_sql.sql):**
    - Utilized Conditional Aggregations and Exploratory SQL Queries.
-3. **Interactive BI Modeling (`F:\Sreejith\Project\HR_attrition_PBI.pbix`):**
+3. **Interactive BI Modeling ((https://github.com/Sreejith-datascientist/HR-Analytics-Employee-Attrition/blob/main/Power_Bi/HR_Attrition_PBI.pbix):**
    - Generated custom `Tenure` Column to plot attrition across Years.
    - Implemented dynamic DAX measures, percentage matrix formatting, dynamic drop-down slicers, and clear visual state management.
 
