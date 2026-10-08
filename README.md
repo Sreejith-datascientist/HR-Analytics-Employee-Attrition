@@ -35,7 +35,7 @@ Lists active high-risk employees ranked by their calculated Flight Risk Score fo
 1. **Data Preprocessing & Risk Scoring (https://github.com/Sreejith-datascientist/HR-Analytics-Employee-Attrition/blob/main/python/HR_Attrition_Prediction_Model.py):**
    - Cleaned missing values.
    - Built a weighted rule-based `RiskScore` algorithm combining overtime, satisfaction, promotion lag, and early tenure.
-   - Predicted Top 10 drivers of Attrition based on Risk Score. (<img width="1000" height="500" alt="feature_importance" src="https://github.com/user-attachments/assets/338a7276-ca3c-4b8b-a552-c4569a12a0ae" />) 
+   - Predicted Top 10 drivers of Attrition based on Risk Score. <img width="1000" height="500" alt="feature_importance" src="https://github.com/user-attachments/assets/338a7276-ca3c-4b8b-a552-c4569a12a0ae" />
 2. **Exploratory Data Mining (https://github.com/Sreejith-datascientist/HR-Analytics-Employee-Attrition/blob/main/SQL/HR_Attrition_sql.sql):**
    - Utilized Conditional Aggregations and Exploratory SQL Queries.
 3. **Interactive BI Modeling ((https://github.com/Sreejith-datascientist/HR-Analytics-Employee-Attrition/blob/main/Power_Bi/HR_attrition_PBI.pbix):**
