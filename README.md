@@ -18,7 +18,7 @@ An end-to-end data analytics project combining **Python (ETL)**, **SQL (Data Min
 
 ### Page 1: Executive Overview
 Provides strategic high-level KPIs, department attrition rankings, overtime impact, and tenure-banded attrition curves.
-![Executive Overview](https://raw.githubusercontent.com/Sreejith-datascientist/HR-Attrition-Risk-Analytics/main/powerbi/screenshots/page1_overview.png)
+![Executive Overview](https://raw.githubusercontent.com/Sreejith-datascientist/HR-Attrition-Risk-Analytics/main/powerbi/screenshots/Overview.png)
 
 ### Page 2: Retention & Risk Drivers
 Features an Environment Satisfaction matrix heatmap by job role alongside tenure and monthly income scatter plots.
