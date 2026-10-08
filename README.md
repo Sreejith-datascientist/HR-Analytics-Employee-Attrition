@@ -18,11 +18,11 @@ An end-to-end data analytics project combining **Python (ETL)**, **SQL (Data Min
 
 ### Page 1: Executive Overview
 Provides strategic high-level KPIs, department attrition rankings, overtime impact, and tenure-banded attrition curves.
-![Executive Overview](https://raw.githubusercontent.com/Sreejith-datascientist/HR-Attrition-Risk-Analytics/main/powerbi/screenshots/Overview.png)
+![Executive Overview](https://raw.githubusercontent.com/Sreejith-datascientist/HR-Analytics-Employee-Attrition/main/ScreenShot/Overview.png)
 
 ### Page 2: Retention & Risk Drivers
 Features an Environment Satisfaction matrix heatmap by job role alongside tenure and monthly income scatter plots.
-![Retention Drivers](<img width="840" height="483" alt="Retention   Risk Drivers" src="https://github.com/user-attachments/assets/072bcd3f-6e61-4858-998e-bfac1580067c" />)
+![Retention Drivers](https://raw.githubusercontent.com/Sreejith-datascientist/HR-Analytics-Employee-Attrition/main/ScreenShot/Retention & Risk Drivers.png)
 
 ### Page 3: Actionable Risk Tracker
 Lists active high-risk employees ranked by their calculated Flight Risk Score for HR retention interventions.
