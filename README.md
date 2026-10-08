@@ -43,6 +43,14 @@ Lists active high-risk employees ranked by their calculated Flight Risk Score fo
    - Implemented dynamic DAX measures, percentage matrix formatting, dynamic drop-down slicers, and clear visual state management.
 
 ---
+## Recommendations
+
+1. **Onboarding & Early Retention:** Standardize a 30-60-90 day onboarding framework to combat the **36.36% attrition rate** observed in year-1 employees.
+2. **Overtime & Burnout Prevention:** Rebalance workloads in high-pressure roles (Sales & Lab Techs) where overtime accounts for over **53% of total resignations**.
+3. **Proactive Risk Intervention:** Utilize the **Actionable Risk Tracker** to conduct targeted retention dialogues with the **18 identified high-risk active employees**, safeguarding **$718.87K in financial turnover risk**.
+4. **Targeted Role Adjustments:** Review compensation structures for Sales Representatives (**39.76% attrition**) and career pathing for HR and Lab personnel.
+
+
 ## How to Run This Project
 
 1. **Clone the Repository:**
