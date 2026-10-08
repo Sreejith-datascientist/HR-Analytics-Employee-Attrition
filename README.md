@@ -22,11 +22,11 @@ Provides strategic high-level KPIs, department attrition rankings, overtime impa
 
 ### Page 2: Retention & Risk Drivers
 Features an Environment Satisfaction matrix heatmap by job role alongside tenure and monthly income scatter plots.
-![Retention Drivers](https://raw.githubusercontent.com/Sreejith-datascientist/HR-Analytics-Employee-Attrition/main/ScreenShot/Retention & Risk Drivers.png)
+![Retention Drivers](https://raw.githubusercontent.com/Sreejith-datascientist/HR-Analytics-Employee-Attrition/main/ScreenShot/Retention_&_Risk_Drivers.png)
 
 ### Page 3: Actionable Risk Tracker
 Lists active high-risk employees ranked by their calculated Flight Risk Score for HR retention interventions.
-![Risk Tracker](<img width="862" height="479" alt="Risk Tracker" src="https://github.com/user-attachments/assets/d42a4e29-312f-4581-a1e4-e8860fa92254" />)
+![Risk Tracker](https://raw.githubusercontent.com/Sreejith-datascientist/HR-Analytics-Employee-Attrition/main/ScreenShot/Risk_Tracker.png)
 
 ---
 
